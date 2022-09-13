@@ -15,7 +15,7 @@ h1{
 }
 .menu1{
     background-color:dimgray;
-    border: 2px solid rgb(245, 230, 230) ;
+    border: 2px solid rgb(14, 9, 9) ;
     width:300px;
     height:150px ;
     float: left;
@@ -25,7 +25,7 @@ h1{
 }
 .menu2{
     background-color:dimgray;
-    border: 2px solid rgb(245, 230, 230);
+    border: 2px solid rgb(14, 9, 9);
     width: 300px;
     height:150px;
     float: left;
@@ -36,7 +36,7 @@ h1{
 }
 .menu3{
     background-color:dimgray;
-    border: 2px solid rgb(245, 230, 230);
+    border: 2px solid rgb(14, 9, 9);
     width: 300px;
     height: 150px;
     float: right;
@@ -108,7 +108,7 @@ h1{
 
 
 /***large device only***/
-@media screen and (min-width:1200px){
+@media screen and (min-width:992px){
  .col-lg-1,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-lg-10,.col-lg-11,.col-lg-12{ 
     float: left;
     border: 1px solid green;
@@ -153,7 +153,7 @@ width:83.3%;
 
 
 /*****Medium devices only*****/
-@media(min-width:767px) and (max-width:1000px){
+@media(min-width:767px) and (max-width:991px){
     .col-md-1,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-md-10,.col-md-11,.col-md-12{
         float: left;
         border: 1px solid green;
