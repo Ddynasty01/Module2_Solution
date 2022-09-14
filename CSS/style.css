@@ -23,6 +23,7 @@ h1{
     margin-top: 35px;
     padding-left: 3px;
     text-align: left;
+    transform:translate (-50%, -50%)
 }
 
 .menu2{
@@ -36,6 +37,7 @@ h1{
     padding-left: 3px;
     text-align: left;
     margin-bottom: 10px;
+    transform:translate (-50%, -50%)
 }
 
 .menu3{
@@ -48,6 +50,7 @@ h1{
     margin-top:7px;
     padding-left: 3px;
     margin-bottom: 10px;
+    transform:translate (-50%, -50%)
 }
 .food{
     background-color: #ff7f50;
