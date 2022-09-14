@@ -20,7 +20,7 @@ h1{
     height: 150px;
     float: left;
     margin-left: 60px;
-    margin-top: 40px;
+    margin-top: 45px;
     padding-left: 3px;
     text-align: left;
 }
@@ -32,7 +32,7 @@ h1{
     height:150px;
     float: left;
     margin-left:73px;
-    margin-top:20px;
+    margin-top:25px;
     padding-left: 3px;
 }
 
@@ -43,6 +43,7 @@ h1{
     height: 150px;
     float: left;
     margin-left: 73px;
+    margin-top:5px;
     padding-left: 3px;
 }
 .food{
